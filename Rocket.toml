@@ -1,0 +1,3 @@
+[default]
+# Rocket's default port is already used by SurrealDB, so we need to change it
+port = 3000
